@@ -11,3 +11,5 @@ MUST READ LITERATURE - SCQubits
 5. C. Liu's Thesis, UW-Madison 2023, R. McDermott group
    https://mcdermottgroup.physics.wisc.edu/pdfs/VincentLiu.pdf
    Peter Timbie collaboration experiment details listed, READ!
+6. https://ocw.mit.edu/courses/6-763-applied-superconductivity-fall-2005/pages/lecture-notes/
+   Lecture Notes from EE763 course
