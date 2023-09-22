@@ -13,4 +13,5 @@ MUST READ LITERATURE - SCQubits
    Peter Timbie collaboration experiment details listed, READ!
 6. https://ocw.mit.edu/courses/6-763-applied-superconductivity-fall-2005/pages/lecture-notes/
    Lecture Notes from EE763 course: Applied Superconductivity: JJs, I-V curves, overdamping etc, SQUIDs and etc.
+7. Theodor Van Duzer, Principles of SC devices.
 
