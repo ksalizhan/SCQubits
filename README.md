@@ -15,6 +15,6 @@ MUST READ LITERATURE - SCQubits
    Lecture Notes from EE763 course: Applied Superconductivity: JJs, I-V curves, overdamping etc, SQUIDs and etc.
 7. Theodor Van Duzer, Principles of SC devices.
 
-Principles of CPW resonators: https://arxiv.org/pdf/0807.4094.pdf (Goppl)
+Principles of CPW resonators: https://arxiv.org/pdf/0807.4094.pdf (Goppl, A Walraff group 2008 circuit QED)
 
 
