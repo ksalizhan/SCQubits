@@ -17,4 +17,7 @@ MUST READ LITERATURE - SCQubits
 
 Principles of CPW resonators: https://arxiv.org/pdf/0807.4094.pdf (Goppl, A Walraff group 2008 circuit QED)
 
+Notes: An international student got 17/17 rejections for PhD with 4.0 GPA from both masters and undergrad: https://www.reddit.com/r/gradadmissions/comments/u7wigk/international_student_with_1717_rejections_this/
+Look at the comments about SOP and contacting potential PIs prior to applying!
+
 
